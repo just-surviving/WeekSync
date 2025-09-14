@@ -7,6 +7,12 @@
 - Responsive design system with Tailwind CSS
 - Dark/light theme support with smooth transitions
 
+## Weekend Planner Features
+- Drag-and-drop weekend planning interface
+- Activity browser with 50+ predefined activities
+- Timeline view with chronological scheduling
+- State management with Zustand stores
+
 <div align="center">
   <img src="public/logo.svg" alt="WeekSync Logo" width="200" height="200">
   
