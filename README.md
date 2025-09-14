@@ -1,5 +1,7 @@
 # WeekSync - AI-Powered Weekend Planning Platform
 
+> Initial project setup with Next.js, TypeScript, and essential dependencies
+
 <div align="center">
   <img src="public/logo.svg" alt="WeekSync Logo" width="200" height="200">
   
