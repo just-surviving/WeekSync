@@ -2,6 +2,11 @@
 
 > Initial project setup with Next.js, TypeScript, and essential dependencies
 
+## Core UI Components Added
+- Comprehensive component library with 50+ reusable UI components
+- Responsive design system with Tailwind CSS
+- Dark/light theme support with smooth transitions
+
 <div align="center">
   <img src="public/logo.svg" alt="WeekSync Logo" width="200" height="200">
   
