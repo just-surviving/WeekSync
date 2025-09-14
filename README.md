@@ -13,6 +13,12 @@
 - Timeline view with chronological scheduling
 - State management with Zustand stores
 
+## API Integrations
+- Google Places API for location-based recommendations
+- Google Gemini AI for smart suggestions
+- OpenWeatherMap for weather-aware planning
+- Eventbrite for local event discovery
+
 <div align="center">
   <img src="public/logo.svg" alt="WeekSync Logo" width="200" height="200">
   
